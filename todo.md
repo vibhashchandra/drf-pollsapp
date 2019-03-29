@@ -11,3 +11,6 @@ Create an API endpoint to fetch a list of all questions belonging to a particula
 Create a model to map a question with choice which will considered as correct answer for the question.
 
 Create an API endpoint to fetch count of total correct answers and count of total wrong answers for a question.
+
+Share request and response json for each API implemented.
+
