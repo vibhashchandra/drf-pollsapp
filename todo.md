@@ -1,6 +1,6 @@
 # Task
 
-Create a model Track. 
+Create a model Track with one field "name".
 
 Each question belongs to a particular track. Update Question model to reflect this relationship.
 
