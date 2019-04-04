@@ -14,13 +14,19 @@
 
 Example:
 Question - Which is longest river in world?
+
 Choices -
+
 Nile (flagged as correc) 30 votes
+
 Amazon 5 votes
+
 Missisipi 6 votes
 
 Total correct - 30
+
 Totwal wrong 5+6 = 11
+
 
 Share request and response json for each API implemented.
 
