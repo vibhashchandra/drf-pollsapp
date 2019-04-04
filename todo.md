@@ -17,7 +17,7 @@ Question - Which is longest river in world?
 
 Choices -
 
-Nile (flagged as correc) 30 votes
+Nile (flagged as correct) 30 votes
 
 Amazon 5 votes
 
