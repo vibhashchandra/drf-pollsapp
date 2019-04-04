@@ -30,3 +30,5 @@ Totwal wrong 5+6 = 11
 
 - Share request and response json for each API implemented.
 
+References:
+Good practices for API design https://medium.com/hashmapinc/rest-good-practices-for-api-design-881439796dc9
